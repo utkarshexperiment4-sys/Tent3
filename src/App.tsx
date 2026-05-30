@@ -166,7 +166,7 @@ function Footer({ setPage }: { setPage: (p: Page) => void }) {
               जय श्री राधा कृष्णा इन्टर प्राइजेज
             </div>
             <p className="text-red-200 text-sm leading-relaxed mb-4" style={{ fontFamily: "'Kalam', cursive" }}>
-              प्रो० - श्री हरिनारायण त्रिपाठी<br />और जयप्रकाश त्रिपाठी (J.P. Sir)
+              <br />और जयप्रकाश त्रिपाठी (J.P. Sir)
             </p>
             <div className="flex space-x-3 mt-4">
               <a href="https://wa.me/918382858008" target="_blank" rel="noopener" className="w-10 h-10 bg-green-600 hover:bg-green-500 rounded-full flex items-center justify-center transition-colors">
