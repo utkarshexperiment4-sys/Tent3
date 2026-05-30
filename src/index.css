@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+/* ─── Global Base Styles ─────────────────────────────── */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Kalam', cursive;
+  background-color: #fffbeb;
+  color: #1f1f1f;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ─── Custom Scrollbar ─────────────────────────────── */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #7f1d1d;
+}
+::-webkit-scrollbar-thumb {
+  background: #eab308;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #ca8a04;
+}
+
+/* ─── Selection ─────────────────────────────── */
+::selection {
+  background: #b45309;
+  color: #fef3c7;
+}
