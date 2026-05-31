@@ -166,7 +166,7 @@ function Footer({ setPage }: { setPage: (p: Page) => void }) {
               जय श्री राधा कृष्णा इन्टर प्राइजेज
             </div>
             <p className="text-red-200 text-sm leading-relaxed mb-4" style={{ fontFamily: "'Kalam', cursive" }}>
-              <br />और जयप्रकाश त्रिपाठी (J.P. Sir)
+              <br /> जयप्रकाश त्रिपाठी (J.P. Sir)
             </p>
             <div className="flex space-x-3 mt-4">
               <a href="https://wa.me/918382858008" target="_blank" rel="noopener" className="w-10 h-10 bg-green-600 hover:bg-green-500 rounded-full flex items-center justify-center transition-colors">
@@ -235,7 +235,7 @@ function Footer({ setPage }: { setPage: (p: Page) => void }) {
             © 2026 तिवारी टेन्ट हाउस | जय श्री राधा कृष्णा इन्टर प्राइजेज। सर्वाधिकार सुरक्षित।
           </p>
           <p className="text-yellow-500 text-xs font-semibold tracking-wider">
-            ✨ Designed by <span className="text-yellow-400">Utkarsh Quantum Solver</span> ✨
+            ✨ by <span className="text-yellow-400">J.P</span> ✨
           </p>
         </div>
       </div>
@@ -627,10 +627,9 @@ function AboutPage({ setPage: _setPage }: { setPage: (p: Page) => void }) {
                   <div>
                     <p className="text-gray-500 text-xs uppercase tracking-wide">प्रोपराइटर</p>
                     <p className="text-red-900 font-bold" style={{ fontFamily: "'Yatra One', cursive" }}>
-                      प्रो० - श्री हरिनारायण त्रिपाठी
                     </p>
                     <p className="text-red-800 font-semibold text-sm" style={{ fontFamily: "'Kalam', cursive" }}>
-                      और जयप्रकाश त्रिपाठी (J.P. Sir)
+                    जयप्रकाश त्रिपाठी (J.P. Sir)
                     </p>
                   </div>
                 </div>
