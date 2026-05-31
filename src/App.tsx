@@ -787,7 +787,7 @@ function ServicesPage(_props?: { setPage?: (p: Page) => void }) {
       icon: "fa-coffee",
       title: "कॉफी & फव्वारा मशीन",
       desc: "मेहमानों के लिए स्वचालित कॉफी मशीन और सुंदर फव्वारा मशीन — एक लग्जरी अनुभव।",
-      img: "https://ibb.co/jvfHsDPc",
+      img: "https://i.ibb.co/3ydkQc9D/1780231008588.png",
       badge: "एक्सक्लूसिव",
     },
     {
