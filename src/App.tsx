@@ -1081,7 +1081,7 @@ function ServicesPage(_props?: { setPage?: (p: Page) => void }) {
                   { icon: "fa-money-bill-wave", text: "बुकिंग कन्फर्म करने के लिए 50% एडवांस अनिवार्य है।" },
                   { icon: "fa-truck", text: "सामान लाने-ले जाने का ट्रांसपोर्ट व लेबर खर्च आर्डरकर्ता का होगा।" },
                   { icon: "fa-clock", text: "सामान की वापसी 11 बजे तक अनिवार्य है।" },
-                  { icon: "fa-exclamation-triangle", text: "नुकसान की भरपाई: सामान टूटने या खो जाने पर नया सामान का पूरा पैसा आर्डरकर्ता को देना होगा।" },
+                  { icon: "fa-exclamation-triangle", text: "नुकसान की भरपाई: सामान टूटने या खो जाने पर नया सामान का पूरा पैसा आर्डरकर्ता को देना होगा। आर्डर मे जितना सामान लिखाया गया है उसके अलावा सामान उपलब्ध होने पर ही मिल सकता है।  यदि किसी प्रकार का विवाद होता है तो इसका निपटारा प्रतापगढ़ न्यायालय मे होगा।  " },
                 ].map((item, i) => (
                   <li key={i} className="flex items-start gap-3">
                     <div className="w-8 h-8 bg-yellow-500/20 border border-yellow-500/40 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
