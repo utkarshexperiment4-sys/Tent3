@@ -780,14 +780,14 @@ function ServicesPage(_props?: { setPage?: (p: Page) => void }) {
       icon: "fa-couch",
       title: "जयमाल सोफा",
       desc: "VIP शाही जयमाल सोफा — दूल्हा-दुल्हन के लिए एकदम शाही और आकर्षक सीटिंग अरेंजमेंट।",
-      img: "https://images.pexels.com/photos/12432503/pexels-photo-12432503.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=400&w=600",
+      img: "",
       badge: "VIP",
     },
     {
       icon: "fa-coffee",
       title: "कॉफी & फव्वारा मशीन",
       desc: "मेहमानों के लिए स्वचालित कॉफी मशीन और सुंदर फव्वारा मशीन — एक लग्जरी अनुभव।",
-      img: "https://images.pexels.com/photos/36766850/pexels-photo-36766850.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=400&w=600",
+      img: "https://ibb.co/jvfHsDPc",
       badge: "एक्सक्लूसिव",
     },
     {
