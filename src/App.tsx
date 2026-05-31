@@ -780,7 +780,7 @@ function ServicesPage(_props?: { setPage?: (p: Page) => void }) {
       icon: "fa-couch",
       title: "जयमाल सोफा",
       desc: "VIP शाही जयमाल सोफा — दूल्हा-दुल्हन के लिए एकदम शाही और आकर्षक सीटिंग अरेंजमेंट।",
-      img: "",
+      img: "https://ibb.co/jvfHsDPc",
       badge: "VIP",
     },
     {
