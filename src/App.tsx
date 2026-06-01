@@ -235,7 +235,7 @@ function Footer({ setPage }: { setPage: (p: Page) => void }) {
             © 2026 तिवारी टेन्ट हाउस | जय श्री राधा कृष्णा इन्टर प्राइजेज। सर्वाधिकार सुरक्षित।
           </p>
           <p className="text-yellow-500 text-xs font-semibold tracking-wider">
-            ✨ by <span className="text-yellow-400">J.P</span> ✨
+            ✨ by <span className="text-yellow-400">J.P Sir</span> ✨
           </p>
         </div>
       </div>
