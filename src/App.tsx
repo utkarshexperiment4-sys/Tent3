@@ -172,7 +172,7 @@ function Footer({ setPage }: { setPage: (p: Page) => void }) {
               <a href="https://wa.me/918382858008" target="_blank" rel="noopener" className="w-10 h-10 bg-green-600 hover:bg-green-500 rounded-full flex items-center justify-center transition-colors">
                 <i className="fab fa-whatsapp text-white"></i>
               </a>
-              <a href="https://instagram.com" target="_blank" rel="noopener" className="w-10 h-10 rounded-full flex items-center justify-center transition-colors" style={{ background: "linear-gradient(135deg,#f09433,#e6683c,#dc2743,#cc2366,#bc1888)" }}>
+              <a href="https://www.instagram.com/tiwar_itenthousein?utm_source=qr&igsh=MXgzeWdyMXZxdnZxcg==" target="_blank" rel="noopener" className="w-10 h-10 rounded-full flex items-center justify-center transition-colors" style={{ background: "linear-gradient(135deg,#f09433,#e6683c,#dc2743,#cc2366,#bc1888)" }}>
                 <i className="fab fa-instagram text-white"></i>
               </a>
               <a href="https://facebook.com" target="_blank" rel="noopener" className="w-10 h-10 bg-blue-600 hover:bg-blue-500 rounded-full flex items-center justify-center transition-colors">
@@ -319,7 +319,7 @@ function HomePage({ setPage }: { setPage: (p: Page) => void }) {
               <span>WhatsApp पर बुकिंग करें</span>
             </a>
             <a
-              href="https://instagram.com"
+              href="https://www.instagram.com/tiwar_itenthousein?utm_source=qr&igsh=MXgzeWdyMXZxdnZxcg=="
               target="_blank"
               rel="noopener"
               className="inline-flex items-center justify-center space-x-2 text-white font-bold px-6 py-4 rounded-full transition-all duration-300 hover:scale-105 shadow-2xl text-base"
